@@ -1,0 +1,26 @@
+.gnb {
+    border-bottom: 1px solid #dddddd;
+  }
+  
+  #logo {
+    height: 20px;
+  }
+  
+  ul.menu {
+    display: inline-block; 
+    /* 로그와 (커리어 스킬 챌린지 커뮤니티)의 인라인*/ 
+    margin: 0;
+    list-style: none;
+  }
+  
+  ul.menu > li {
+    margin: 16px;
+    display: inline-block;
+    /*커리어 스킬 챌린지 커뮤니티)의 인라인*/
+  }
+  
+  .gnb,
+  .main {
+    padding: 16px;
+  }
+  
